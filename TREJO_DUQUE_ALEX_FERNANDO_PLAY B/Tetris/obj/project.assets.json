@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\16_11_2022\\exp\\exp2\\PlayBox_7996-master\\TREJO_DUQUE_ALEX_FERNANDO\\Tetris\\Tetris.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\16_11_2022\\exp\\exp2\\repositorio\\PLAY_BOX_TREJO_ALEX\\TREJO_DUQUE_ALEX_FERNANDO_PLAY B\\Tetris\\Tetris.csproj",
       "projectName": "Tetris",
-      "projectPath": "C:\\Users\\User\\Desktop\\16_11_2022\\exp\\exp2\\PlayBox_7996-master\\TREJO_DUQUE_ALEX_FERNANDO\\Tetris\\Tetris.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\16_11_2022\\exp\\exp2\\repositorio\\PLAY_BOX_TREJO_ALEX\\TREJO_DUQUE_ALEX_FERNANDO_PLAY B\\Tetris\\Tetris.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\16_11_2022\\exp\\exp2\\PlayBox_7996-master\\TREJO_DUQUE_ALEX_FERNANDO\\Tetris\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\16_11_2022\\exp\\exp2\\repositorio\\PLAY_BOX_TREJO_ALEX\\TREJO_DUQUE_ALEX_FERNANDO_PLAY B\\Tetris\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
